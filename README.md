@@ -9,6 +9,7 @@ The user has to login before posting any review! New Users can register in the r
 
 The admin can accept or reject any reviews posted by the users and upload new products on the website.
 Only the accepted reviews are displayed on the website.
+
 ![adm](https://user-images.githubusercontent.com/46229364/56603649-bfd4f480-661d-11e9-8def-c5db40a1b9d2.PNG)
 
 The reviews posted by user and approved by the admin are displayed in the description section.
