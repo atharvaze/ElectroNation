@@ -17,8 +17,7 @@ if(isset($_SESSION['uid']))
 {
   echo " <div class='navbar'>
         <a href=''class='active'>Home</a>
-        <a href='adminlogin.php'>Admin Login</a>
-        <a href='' class='right'>'.$pid.'</a> 
+        <a href='adminlogin.php'>Admin Login</a> 
         <a href='logout.php' class='right'>Logout</a> 
         </div>
         "
